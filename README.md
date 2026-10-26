@@ -1,2 +1,2 @@
-# my-practicum-project
-задачка
+# the_snake
+
